@@ -1,0 +1,65 @@
+.navbar.navbar-light.navbar-expand-md {
+  background-color: rgba(255,255,255,0);
+}
+
+/* logo brand */
+
+@media (min-width: 768px) {
+  .logo-img-uni {
+    margin: -10px 0px 0px 0px;
+  }
+}
+
+@media (min-width: 992px) {
+  .logo-img-uni {
+    margin-left: 70px;
+  }
+}
+
+@media (min-width: 768px) {
+  .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+    color: #000000;
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 992px) {
+  .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+    color: #000000;
+    font-size: 16px;
+  }
+}
+
+/* section navbar */
+
+/* login-button */
+
+.btn-dark-uni {
+  border: 1px solid;
+  font-size: 14px;
+  border-radius: .4rem;
+  box-shadow: 0px 0px 0px 0px;
+}
+
+@media (min-width: 992px) {
+  .btn-dark-uni {
+    font-size: 16px;
+  }
+}
+
+.btn-dark-uni:focus {
+  box-shadow: 0 0 0 0;
+}
+
+.btn-dark-uni:hover {
+  color: #ffffff;
+  background-color: rgba(59, 89, 152, 0.25);
+  border: 0px;
+  font-weight: 600;
+  box-shadow: 0px 0px 0px 0px;
+}
+
+.btn-outline-dark-uni:focus {
+  box-shadow: 0px 0px 0px 0px;
+}
+

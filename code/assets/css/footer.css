@@ -1,0 +1,231 @@
+/* footer */
+
+.footer-para {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #6d6d6d;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.row {
+  margin: 0;
+}
+
+.row.row-footer {
+  margin: 0;
+  background: linear-gradient(245.13deg, rgba(209, 135, 255, 0.06) 5.14%, rgba(255, 196, 142, 0.2) 89.27%);
+  margin-top: 50px;
+}
+
+.col.col-footer {
+  padding: 0;
+}
+
+.col.column-1-footer {
+  padding: 0;
+}
+
+.container-fluid.cont-1-footer {
+  padding: 0;
+  background: linear-gradient(245.13deg, rgba(209, 135, 255, 0.06) 5.14%, rgba(255, 196, 142, 0.2) 89.27%);
+}
+
+.col-8.col-of-foot-links-&-icons {
+  padding: 0;
+}
+
+.row.row-of-foot-links {
+  margin: 0;
+}
+
+.col.col-of-foot-links {
+  padding: 0;
+  padding-left: 10px;
+}
+
+.nav.nav-tabs.foot-links {
+  font-family: 'Roboto';
+  color: #434343;
+  font-weight: 500;
+  background-color: rgba(0,0,0,0);
+  border: 0px;
+  margin-top: 20px;
+}
+
+/* footer-links */
+
+.col.col2-of-foot-icons {
+  padding: 0;
+  margin-left: 10px;
+}
+
+.nav-link {
+  display: block;
+  padding: .5rem .5rem .5rem 1rem !important;
+}
+
+#foot-link-1 {
+  border: 0px;
+  background-color: rgba(0,0,0,0);
+  cursor: default;
+}
+
+#foot-link-2 {
+  border: 0px;
+  background-color: rgba(0,0,0,0);
+  cursor: default;
+}
+
+#foot-link-3 {
+  border: 0px;
+  background-color: rgba(0,0,0,0);
+  cursor: default;
+}
+
+#foot-link-4 {
+  border: 0px;
+  background-color: rgba(0,0,0,0);
+  cursor: default;
+}
+
+/* icons footer class */
+
+.row.row-icons {
+  margin: 0;
+}
+
+.col.col-icons {
+  padding: 0;
+  margin-top: 0;
+}
+
+.fab.fa-facebook.face-icon {
+  font-size: 36px;
+  padding: 1rem;
+}
+
+@media (min-width: 576px) {
+  .fab.fa-facebook.face-icon {
+    font-size: 40px;
+    padding: 2rem 2rem 0rem 2rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .fab.fa-facebook.face-icon {
+    font-size: 48px;
+    padding: 1.5rem;
+  }
+}
+
+.fa.fa-twitter.twit-icon {
+  font-size: 36px;
+  padding: 1rem;
+}
+
+@media (min-width: 576px) {
+  .fa.fa-twitter.twit-icon {
+    font-size: 40px;
+    padding: 2rem 2rem 0rem 2rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .fa.fa-twitter.twit-icon {
+    font-size: 48px;
+    padding: 1.8rem;
+  }
+}
+
+.fab.fa-instagram.insta-icon {
+  font-size: 36px;
+  padding: 1rem;
+}
+
+@media (min-width: 576px) {
+  .fab.fa-instagram.insta-icon {
+    font-size: 40px;
+    padding: 2rem 2rem 0rem 2rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .fab.fa-instagram.insta-icon {
+    font-size: 48px;
+    padding: 1.8rem;
+  }
+}
+
+.fab.fa-youtube.yout-icon {
+  font-size: 36px;
+  padding: 1rem;
+}
+
+@media (min-width: 576px) {
+  .fab.fa-youtube.yout-icon {
+    font-size: 40px;
+    padding: 2rem 2rem 0rem 2rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .fab.fa-youtube.yout-icon {
+    font-size: 48px;
+    padding: 1.8rem;
+  }
+}
+
+/* footer-logo-column */
+
+.col-5.foot-logo {
+  padding: 0;
+}
+
+.row.foot-logo-row {
+  margin: 0;
+}
+
+.col.col-img {
+  padding: 0;
+}
+
+.img-fluid.footer-logo-img {
+  margin-top: 20px;
+}
+
+/* heading-column */
+
+.col.align-self-center.col-hog-head {
+  padding: 15px;
+}
+
+/* hogwarts-footer-name */
+
+.col-12.col-md-6.col-lg-6.text-left.align-self-center.col-hog-head {
+  padding: 0;
+}
+
+.hogwarts-footer-head {
+  font-family: 'Open Sans';
+  font-size: 24px;
+}
+
+@media (min-width: 576px) {
+  .hogwarts-footer-head {
+    font-family: 'Open Sans';
+    font-size: 28px;
+  }
+}
+
+@media (min-width: 992px) {
+  .hogwarts-footer-head {
+    font-family: 'Open Sans';
+    font-size: 38px;
+  }
+}
+
+.col.col-footer-copyright {
+  background: linear-gradient(245.13deg, rgba(209, 135, 255, 0.06) 5.14%, rgba(255, 196, 142, 0.2) 89.27%);
+}
+
